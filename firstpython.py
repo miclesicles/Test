@@ -2,4 +2,4 @@
 
 print('Helloski broski')
 
-Edited.
+print(99)
